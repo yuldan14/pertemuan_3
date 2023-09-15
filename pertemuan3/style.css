@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+
+.desc{
+    text-align: center;
+    margin: 100px 0;
+    background-color: rgba(0, 0, 0, .2);
+    padding: 100px;
+    
+}
